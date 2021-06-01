@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: white;
+}
+
+$primary: darken(#ca4242, 20%);
+$body-bg: purple;
+
+h1 {
+    color: $primary;
+}
